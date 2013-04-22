@@ -30,11 +30,12 @@ Click on save changes and go to Site Administration --> Appearance --> Themes --
 Step 6 - Enable the web services in moodle
 After you see the success message continue with the installation as follows:
 
-1. Browse from the Settings Block to Site Administration -> Advanced features. There you must check the option Enable web services.
-2. Browse from the Settings Block to Site Administrator ->Plugin -> Web Services -> Overview. In the Users as clients with token Section you must click in step 1 and step 2 and do the following.
-3. In step 1 click on the Enable web services link and in the next screen you must check the option Enable Web Services and save the changes by clicking the Save Changes button.
-4. In step 2 click on the Enable protocols link and in the next screen you must enable the REST protocol. Then save the changes by clicking the Save Changes button.
-5. Finally you must browse from the Settings Block to Site Administration -> Users -> Permissions -> Define Roles. There you must select the Authenticated user and then click on the Edit Button. From the Capability list you must find the webservice:createtoken and webservice:restuse and give them the permission allow, select Save Changes button.
+	1. Browse from the Settings Block to Site Administration -> Advanced features. There you must check the option Enable web services.
+	2. Browse from the Settings Block to Site Administrator ->Plugin -> Web Services -> Overview. In the Users as clients with token Section you must click in step 1 and step 2 and do the following.
+	3. In step 1 click on the Enable web services link and in the next screen you must check the option Enable Web Services and save the changes by clicking the Save Changes button.
+	4. In step 2 click on the Enable protocols link and in the next screen you must enable the REST protocol. Then save the changes by clicking the Save Changes button.
+	5. Finally you must browse from the Settings Block to Site Administration -> Users -> Permissions -> Define Roles. There you must select the Authenticated user and then click on the Edit Button. From the Capability list you must find the webservice:createtoken and webservice:restuse and give them the permission allow, select Save Changes button.
+
 Step 7 - Make the plugin's block visible
 Navigate to Navigation-> SiteHome.
 On the left-hand side of your screen there is a Settings block. Click 'FrontPage Settings' -> 'Turn Editing On'.
