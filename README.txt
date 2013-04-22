@@ -14,7 +14,10 @@ Your registration will be activated within 24h tops and when it does you will re
 Step 2 - Download the plugin
 Download the plugin and place the zip file inside the blocks directory of your Moodle installation. Unzip it and you should now have the plugin folder expanded.
 Alternatively you can pull the source directly from github by issuing the following command inside the blocks directory of your moodle installation.
+
 git clone https://github.com/thelmsapp/thelmsapp-plugin-moodle.git
+
+Download https://github.com/thelmsapp/thelmsapp-plugin-moodle-extra-files/archive/master.zip and place "thelmsapp" folder inside your moodle's "local" folder
 
 Step 3 - Download the theme
 Next step is to download the accompanying theme. If you have moodle 2.2 or 2.3 download this .zip (or visit this repo), if you have moodle 2.4 download this .zip (or visit this repo).  Place the .zip file inside the themes directory of your Moodle installation. Unzip it and you should now have the theme's folder expanded.
