@@ -48,8 +48,7 @@ If you made it this far congratulations! You have made your LMS installation acc
 
 After you install the plugin please read the How-to-setup guide in order to learn how you can customize your content for TheLMSapp.
 
-Need some help? Run into any problems? Create a ticket --> https://thelmsapp.zendesk.com/anonymous_requests/new
- Need any additional info or just want to say hi?  www.thelmsapp.com/contact
+Need some help? Run into any problems? Add an issue and we will get back to you. 
 
 Copyright 2013 TheLMSapp
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
